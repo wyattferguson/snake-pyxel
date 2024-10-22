@@ -1,5 +1,3 @@
-![chip8pong](https://i.imgur.com/MdyWkCT.png)
-
 # :joystick: Snake Game using Pyxel
 
 This is just a simple version of snake, I created to learn the basics of Pyxel.
