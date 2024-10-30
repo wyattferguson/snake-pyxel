@@ -30,12 +30,13 @@ poetry run python ./snake/snake.py
 - Pyxel ([https://github.com/kitao/pyxel](https://github.com/kitao/pyxel))
 
 ## :postbox: Contact & Support
+Created by [Wyatt Ferguson](https://twitter.com/wyattxdev)
 
-Created by [Wyatt Ferguson](https://github.com/wyattferguson)
+For any questions or comments heres how you can reach me:
 
-For any questions or comments you can send them to me on my socials:
+### :mailbox_with_mail: Email me at [wyattxdev@duck.com](wyattxdev@duck.com)
 
-### :shaved_ice: Follow on [Mastodon @wyattxdev@mastodon.social](@wyattxdev@mastodon.social)
+### :shaved_ice: Follow on [BlueSky @wyattf](wyattf.bsky.social)
 
 ### :tropical_drink: Follow on [Twitter @wyattxdev](https://twitter.com/wyattxdev)
 
