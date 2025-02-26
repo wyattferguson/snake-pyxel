@@ -2,7 +2,7 @@
 
 This is just a simple version of snake, I created to learn the basics of Pyxel.
 
-# Installation & How To Use
+## Installation & How To Use
 
 Installation is pretty straight forward, Im using [Poetry](https://python-poetry.org/docs/) to manage everything.
 
@@ -22,10 +22,9 @@ To run it simply:
 
 ```
 poetry run python ./snake/snake.py
-
 ```
 
-# References
+## References
 
 - Pyxel ([https://github.com/kitao/pyxel](https://github.com/kitao/pyxel))
 
